@@ -1,3 +1,3 @@
 # SimpleDFlipFlop
 
-written in verilog, can be simulated using Tcl scripts
+written in verilog & tcl script is only for opening project and behavorial simulation in XSim (default Vivado simulation model)
