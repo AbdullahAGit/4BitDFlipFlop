@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module registers
     (
     input   clk,
@@ -7,7 +5,7 @@ module registers
     output reg [3:0] Q
     );
     
-    always @(posedge clk)
+    always @(posedge clk) // on positive edge of the clock set Q to D
         begin
             Q <= D;
         end
