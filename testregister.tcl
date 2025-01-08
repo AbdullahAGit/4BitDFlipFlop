@@ -1,4 +1,4 @@
-# Open the existing project
+# Open the existing project (make sure to change the path below to the correct project)
 open_project D:/Personal/Documents/VivadoProjects/testregister.xpr
 
 # Set the top module for simulation (replace with your testbench module name if different)
